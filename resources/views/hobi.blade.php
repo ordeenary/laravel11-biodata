@@ -62,7 +62,7 @@
       <img src="img/dress_up.png" class="d-block w-100" alt="pakai jas biru">
       <div class="carousel-caption d-none d-md-block text-light">
         <h5>Dress Up - Vintage Inspired</h5>
-            <p>Seseorang yang bijak pernah berkata: Dress well, feel well!</p>
+            <p>Dress well, feel well!</p>
         </div>
     </div>
   </div>
