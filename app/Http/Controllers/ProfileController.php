@@ -16,10 +16,13 @@ class ProfileController extends Controller
         return "ini adalah teks dari fungsi edit()";
     }
     public function tambah(){
-        return "ini adalah teks dari fungsi tambah()";
+        return view ('tambah');
     }
     public function hapus(){
         return "ini adalah teks dari fungsi hapus()";
     }
-    
+    public function lihat(){
+        return view ('lihat');
+    }
+
 }

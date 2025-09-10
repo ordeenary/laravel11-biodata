@@ -20,9 +20,13 @@ Route::get('/hobi', function () {
 Route::get('/profile', function () {
     return view('profile');
 });
+Route::get('/latihan', function () {
+    return view('latihan');
+});
 
 Route::get('/profilee',[ProfileController::class, 'tampil']);
-Route::get('/profilee/edit',[ProfileController::class, 'edit']);
-Route::get('/profilee/tambah',[ProfileController::class, 'tambah']);
-Route::get('/profilee/hapus',[ProfileController::class, 'hapus']);
+Route::get('/edit',[ProfileController::class, 'edit']);
+Route::get('/tambah',[ProfileController::class, 'tambah']);
+Route::get('/hapus',[ProfileController::class, 'hapus']);
+Route::get('/lihat',[ProfileController::class, 'lihat']);
 Route::get('/hobiku', [HobikuController::class, 'index']);
