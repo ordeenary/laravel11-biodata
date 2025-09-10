@@ -26,6 +26,12 @@
         <li class="nav-item">
           <a class="nav-link" href="/hobi">Hobi</a>
         </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/profilee">Profilee</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/hobiku">Hobiku</a>
+        </li>
       </ul>
     </div>
   </div>
