@@ -47,16 +47,19 @@
                     <tr>
                         <th scope="col">No</th>
                         <th scope="col">Nama</th>
+                        <th scope="col">Jenis Kelamin</th>
                     </tr>
                 </thead>
                 <tbody>
                     <tr class="">
                         <td>1</td>
                         <td>Angeliana</td>
+                        <td>Perempuan</td>
                     </tr>
                     <tr class="">
                         <td>2</td>
                         <td>Davina</td>
+                        <td>Perempuan</td>
                     </tr>
                 </tbody>
             </table>
